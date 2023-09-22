@@ -1,7 +1,11 @@
 reference,name,organisation,description,notes,entry-date,start-date,end-date
 generating-station,Generating station,,,,2023-09-22,2023-09-22,
 electricity-line,Electricity line,,,,2023-09-22,2023-09-22,
-transport,Transport,,,,2023-09-22,2023-09-22,
-waste-and-water,Waste and water,,,,2023-09-22,2023-09-22,
+waste-and-water,Waste and water,,,,2023-09-22,2023-09-22,2023-09-22
 pipeline,Pipeline,,,,2023-09-22,2023-09-22,
-business-and-commercial,Business and commercial,,,,2023-09-22,2023-09-22,
+energy,Energy,,,,2023-09-22,2023-09-22,
+transport,Transport,,,,2023-09-22,2023-09-22,
+business-and-commercial,Business & commercial,,,,2023-09-22,2023-09-22,
+water,Water,,,,2023-09-22,2023-09-22,
+waste,Waste,,,,2023-09-22,2023-09-22,
+waste-water,Waste water,,,,2023-09-22,2023-09-22,
