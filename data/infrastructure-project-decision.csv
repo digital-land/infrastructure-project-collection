@@ -1,1 +1,5 @@
 reference,name,organisation,description,notes,entry-date,start-date,end-date
+consent-granted,Consent granted,,,,2023-09-22,2023-09-22,
+consent-rejected,Consent rejected,,,,2023-09-22,2023-09-22,
+withdrawn,Withdrawn,,,,2023-09-22,2023-09-22,
+appealed,Appealed,,,,2023-09-22,2023-09-22,
