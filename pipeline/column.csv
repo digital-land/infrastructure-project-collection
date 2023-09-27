@@ -1,1 +1,4 @@
 dataset,resource,column,field
+infrastructure-project,,prjref,reference
+infrastructure-project,,stage,infrastructure-project-decision
+infrastructure-project,,type,infrastructure-project-event
