@@ -1,4 +1,4 @@
-name: Run collection
+name: Run collection to dev
 on:
   workflow_dispatch: null
 env:
