@@ -1,4 +1,4 @@
-# infrastructure project collection collection
+# infrastructure project collection ⚠️ Centralised
 
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/digital-land/infrastrucutre-project-collection/blob/main/LICENSE)
 [![Run pipeline](https://github.com/digital-land/infrastructure-project-collection/actions/workflows/run.yml/badge.svg)](https://github.com/digital-land/infrastructure-project-collection/actions/workflows/run.yml)
